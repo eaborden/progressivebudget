@@ -39,12 +39,8 @@ When brought back online:
 
 ###  Application Screenshot
 
-Link here
+![application](https://github.com/eaborden/progressivebudget/blob/master/public/assets/img/application.png?raw=true)
 
-###  Manifest.webmanifest
+### Image 2: Directory Structure
 
-Link here
-
-###  service-worker
-
-Link here
+![SW](https://github.com/eaborden/burger/blob/master/public/assets/img/SW.png?raw=true)
