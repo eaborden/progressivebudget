@@ -39,8 +39,8 @@ When brought back online:
 
 ###  Application Screenshot
 
-![application](https://github.com/eaborden/progressivebudget/blob/master/public/images/application.png?raw=true)
+![application](https://github.com/eaborden/progressivebudget/blob/master/public/images/application.PNG?raw=true)
 
 ### Image 2: Directory Structure
 
-![SW](https://github.com/eaborden/progressivebudget/blob/master/public/images/SW.png?raw=true)
+![SW](https://github.com/eaborden/progressivebudget/blob/master/public/images/SW.PNG?raw=true)
