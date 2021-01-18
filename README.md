@@ -41,6 +41,11 @@ When brought back online:
 
 ![application](https://github.com/eaborden/progressivebudget/blob/master/public/images/application.PNG?raw=true)
 
-### Image 2: Directory Structure
+### Service Worker in Developer Tools
 
 ![SW](https://github.com/eaborden/progressivebudget/blob/master/public/images/SW.PNG?raw=true)
+
+### Manifest in Developer Tools
+
+![SW](https://github.com/eaborden/progressivebudget/blob/master/public/images/manifest.PNG?raw=true)
+
