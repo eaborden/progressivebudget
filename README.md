@@ -7,7 +7,7 @@ Budget tracking application built as a Progressive Web Application (PWA).  PWA f
 https://github.com/eaborden/progressivebudget
 
 ## Deployed Application
-https://eddies-burgers.herokuapp.com/
+
 
 ## Table of Contents
 [Required Elements](#required-elements) \
@@ -39,8 +39,8 @@ When brought back online:
 
 ###  Application Screenshot
 
-![application](https://github.com/eaborden/progressivebudget/blob/master/public/assets/img/application.png?raw=true)
+![application](https://github.com/eaborden/progressivebudget/blob/master/public/images/application.png?raw=true)
 
 ### Image 2: Directory Structure
 
-![SW](https://github.com/eaborden/burger/blob/master/public/assets/img/SW.png?raw=true)
+![SW](https://github.com/eaborden/progressivebudget/blob/master/public/images/SW.png?raw=true)
